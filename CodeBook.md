@@ -19,7 +19,8 @@ The raw data was put trough the following processing steps to obtain a tidy data
 *Tidy Data Set:*  
 The following variables are present in the tidy data set:  
 - subject: the subject who performed the activity                                     
-- activity: description of the activity  
+- activity: description of the activity
+  
 The other variables in the tidy data set can be described from the text segments that they contain:  
 - "Accelerometer" or "Gyroscope" indicate signals captured by an accelerometer or a gyroscope respectively.
 - "time" indicates time domain signals and "frequency" indicates frequency domain signals.
